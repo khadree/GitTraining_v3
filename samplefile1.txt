@@ -6,3 +6,4 @@ This is Sample File 1
 This is Comparism lecture
 
 This is Stash Lecture, Change in File 1
+This is Stash Lecture, Change for Untracked Files in File 1
